@@ -15,7 +15,7 @@ import javax.swing.WindowConstants;
 
 /**
  *
- * @author lendle
+ * @author lendle145
  */
 public class PreferredSizeSample extends JPanel{
 
